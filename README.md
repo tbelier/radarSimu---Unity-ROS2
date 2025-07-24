@@ -23,9 +23,11 @@ or
 ```bash
 "rviz2"
 ```
-to visualize your result !
+to visualize your result!
 
+### Watch the demo on Youtube!
+[🎥 Watch the demo!](https://www.youtube.com/watch?v=d3VPCv4Vso0)
 
 ### Results !
 ![surLePonton](./img/radarVisu.png)
-[🎥 Watch the demo!](https://www.youtube.com/watch?v=d3VPCv4Vso0)
+
